@@ -2,10 +2,10 @@
 This is a repository to learn how to configure and use Redux Toolkit and RTK Query in your Next.js 13 project. 
 
 ## About this Repository
-![GitHub language count](https://img.shields.io/github/languages/count/badiniibrahim/redux-toolkit-nextjs13/)
-![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/redux-toolkit-nextjs13/)
-![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/redux-toolkit-nextjs13/)
-![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/redux-toolkit-nextjs13/)
+![GitHub language count](https://img.shields.io/github/languages/count/badiniibrahim/redux-toolkit-nextjs13)
+![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/redux-toolkit-nextjs13)
+![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/redux-toolkit-nextjs13)
+![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/redux-toolkit-nextjs13)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style&logo=JavaScript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style&logo=React&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>

@@ -10,10 +10,10 @@ This is a repository to learn how to configure and use Redux Toolkit and RTK Que
 ## 🔐 Setup .env file
 BASE_API_URL
 
-### Api link
+## Api link
 https://jsonplaceholder.typicode.com/
 
-### :running: Run Locally
+## :running: Run Locally
 
 Clone the project
 

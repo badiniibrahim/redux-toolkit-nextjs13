@@ -1,7 +1,6 @@
 ## How to Setup Redux Toolkit and RTK Query in Next.js 13
 This is a repository to learn how to configure and use Redux Toolkit and RTK Query in your Next.js 13 project. 
 <!-- Badges -->
-<a href="https://nexlink.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 
 ## Technologies
 - Next.js 13
@@ -11,7 +10,7 @@ This is a repository to learn how to configure and use Redux Toolkit and RTK Que
 ## 🔐 Setup .env file
 BASE_API_URL
 
-### :Api link
+### Api link
 https://jsonplaceholder.typicode.com/
 
 ### :running: Run Locally
